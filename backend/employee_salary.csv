@@ -1,0 +1,51 @@
+Experience_Years,Education_Level,Skills,Job_Role,City,Monthly_Salary
+15,Master,"SEO, Content Strategy, Analytics",Marketing,Delhi,111416
+7,Bachelor,"Supply Chain, Process Improvement, Excel",Operations,Bangalore,95271
+12,High School,"Python, Machine Learning, SQL",IT,Hyderabad,69064
+8,PhD,"Supply Chain, Process Improvement, Excel",Operations,Delhi,95091
+15,Master,"Supply Chain, Process Improvement, Excel",Operations,Delhi,132450
+3,High School,"Budgeting, Risk Analysis, Excel",Finance,Mumbai,65818
+14,PhD,"Python, SQL, Cloud Computing",IT,Mumbai,70525
+17,PhD,"Java, SQL, System Design",IT,Bangalore,44830
+4,Bachelor,"Python, SQL, Cloud Computing",IT,Hyderabad,42429
+18,High School,"Inventory Management, Operations Planning, Communication",Operations,Mumbai,31893
+8,PhD,"Digital Marketing, Analytics, Branding",Marketing,Delhi,141381
+4,Master,"Python, SQL, Cloud Computing",IT,Hyderabad,104909
+2,Master,"Supply Chain, Process Improvement, Excel",Operations,Hyderabad,72333
+6,Bachelor,"Financial Modeling, Excel, Accounting",Finance,Delhi,28436
+10,PhD,"Social Media, Branding, Communication",Marketing,Mumbai,99290
+4,High School,"Budgeting, Risk Analysis, Excel",Finance,Delhi,101213
+18,Master,"SEO, Content Strategy, Analytics",Marketing,Hyderabad,30895
+12,PhD,"Inventory Management, Operations Planning, Communication",Operations,Chennai,44738
+2,PhD,"Recruitment, Communication, Payroll",HR,Chennai,55746
+10,Bachelor,"Digital Marketing, Analytics, Branding",Marketing,Bangalore,74377
+4,Master,"Budgeting, Risk Analysis, Excel",Finance,Delhi,73404
+14,Master,"Logistics, Project Management, Excel",Operations,Delhi,79045
+16,High School,"Market Research, SEO, Copywriting",Marketing,Bangalore,122888
+15,Master,"Recruitment, Communication, Payroll",HR,Bangalore,64790
+8,High School,"Recruitment, Communication, Payroll",HR,Bangalore,132455
+14,Master,"Cloud Computing, DevOps, Linux",IT,Hyderabad,30600
+8,Bachelor,"Python, Machine Learning, SQL",IT,Delhi,119660
+16,Master,"Taxation, Accounting, Auditing",Finance,Hyderabad,118179
+13,High School,"Social Media, Branding, Communication",Marketing,Bangalore,65764
+18,High School,"Social Media, Branding, Communication",Marketing,Delhi,99543
+15,Bachelor,"Python, Machine Learning, SQL",IT,Hyderabad,70714
+13,Master,"SEO, Content Strategy, Analytics",Marketing,Hyderabad,81835
+9,Master,"SEO, Content Strategy, Analytics",Marketing,Bangalore,127946
+15,Bachelor,"Employee Relations, Onboarding, Communication",HR,Delhi,134616
+13,Master,"Python, SQL, Cloud Computing",IT,Bangalore,130983
+1,Master,"Logistics, Project Management, Excel",Operations,Delhi,98744
+7,High School,"Python, Machine Learning, SQL",IT,Chennai,81491
+9,Master,"Inventory Management, Operations Planning, Communication",Operations,Mumbai,149123
+1,Master,"Employee Relations, Onboarding, Communication",HR,Mumbai,43589
+12,Bachelor,"Financial Modeling, Excel, Accounting",Finance,Mumbai,68484
+8,Bachelor,"Digital Marketing, Analytics, Branding",Marketing,Bangalore,107989
+11,PhD,"Talent Acquisition, HR Policies, Negotiation",HR,Chennai,61212
+19,High School,"SEO, Content Strategy, Analytics",Marketing,Delhi,68525
+17,Master,"Financial Planning, Excel, Forecasting",Finance,Hyderabad,72202
+8,Master,"Financial Modeling, Excel, Accounting",Finance,Delhi,57635
+3,PhD,"Talent Acquisition, HR Policies, Negotiation",HR,Hyderabad,88208
+3,Master,"Taxation, Accounting, Auditing",Finance,Delhi,58828
+1,High School,"Inventory Management, Operations Planning, Communication",Operations,Chennai,43711
+5,PhD,"Taxation, Accounting, Auditing",Finance,Hyderabad,28420
+10,High School,"Social Media, Branding, Communication",Marketing,Bangalore,121752
